@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api_001_prueba_cajanegra", "api_001_prueba_cajanegra\api_001_prueba_cajanegra.csproj", "{E46C32A2-D679-4C81-A6D5-A07D10F1C045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E46C32A2-D679-4C81-A6D5-A07D10F1C045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46C32A2-D679-4C81-A6D5-A07D10F1C045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46C32A2-D679-4C81-A6D5-A07D10F1C045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46C32A2-D679-4C81-A6D5-A07D10F1C045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE82A93-81C2-4A03-B765-F6B8BED0DACC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\api_001_prueba_cajanegra.props" />
+</Project>

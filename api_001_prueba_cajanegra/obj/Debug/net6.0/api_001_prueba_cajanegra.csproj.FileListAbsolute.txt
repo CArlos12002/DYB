@@ -1,0 +1,90 @@
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\appsettings.json
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\api_001_prueba_cajanegra.exe
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\api_001_prueba_cajanegra.deps.json
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\api_001_prueba_cajanegra.runtimeconfig.json
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\api_001_prueba_cajanegra.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\api_001_prueba_cajanegra.pdb
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\Aspose.Slides.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\ServiceStack.Common.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\ServiceStack.Interfaces.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\ServiceStack.Redis.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\ServiceStack.Text.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.csproj.AssemblyReference.cache
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.AssemblyInfoInputs.cache
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.AssemblyInfo.cs
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets\msbuild.api_001_prueba_cajanegra.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets\msbuild.build.api_001_prueba_cajanegra.props
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api_001_prueba_cajanegra.props
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api_001_prueba_cajanegra.props
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\scopedcss\bundle\api_001_prueba_cajanegra.styles.css
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_.149625C9.Up2Date
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\refint\api_001_prueba_cajanegra.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.pdb
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.genruntimeconfig.cache
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\obj\Debug\net6.0\ref\api_001_prueba_cajanegra.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\jovan\source\repos\api_001_prueba_cajanegra\api_001_prueba_cajanegra\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\appsettings.json
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\api_001_prueba_cajanegra.exe
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\api_001_prueba_cajanegra.deps.json
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\api_001_prueba_cajanegra.runtimeconfig.json
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\api_001_prueba_cajanegra.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\api_001_prueba_cajanegra.pdb
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\Aspose.Slides.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\ServiceStack.Common.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\ServiceStack.Interfaces.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\ServiceStack.Redis.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\ServiceStack.Text.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets\msbuild.api_001_prueba_cajanegra.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets\msbuild.build.api_001_prueba_cajanegra.props
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api_001_prueba_cajanegra.props
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api_001_prueba_cajanegra.props
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\scopedcss\bundle\api_001_prueba_cajanegra.styles.css
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_.149625C9.Up2Date
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\refint\api_001_prueba_cajanegra.dll
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.pdb
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\api_001_prueba_cajanegra.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Escritorio\api_001_prueba_cajanegra - copia\api_001_prueba_cajanegra\obj\Debug\net6.0\ref\api_001_prueba_cajanegra.dll
